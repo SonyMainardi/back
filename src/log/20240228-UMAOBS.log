@@ -1,0 +1,65 @@
+Escalas Originais:
+[
+  Escala {
+    id: 29730,
+    starts_at: 202404011900,
+    ends_at: 202404010100,
+    calendar_id: 1,
+    employee_id: 3
+  },
+  Escala {
+    id: 31258,
+    starts_at: 202404010000,
+    ends_at: 202404020000,
+    calendar_id: 4,
+    employee_id: 3
+  },
+  Escala {
+    id: 31305,
+    starts_at: 202404011900,
+    ends_at: 202404010100,
+    calendar_id: 1,
+    employee_id: 3
+  },
+  Escala {
+    id: 31335,
+    starts_at: 202404010100,
+    ends_at: 202404010700,
+    calendar_id: 1,
+    employee_id: 3
+  }
+]
+
+Alteração calendar_id: 2
+
+Escalas de Substituição:
+[
+  {
+    starts_at: 202404011900,
+    ends_at: 202404010100,
+    calendar_id: 1,
+    employee_id: 5,
+    load_hash: 'UMAOBS'
+  },
+  {
+    starts_at: 202404010000,
+    ends_at: 202404020000,
+    calendar_id: 4,
+    employee_id: 5,
+    load_hash: 'UMAOBS'
+  },
+  {
+    starts_at: 202404011900,
+    ends_at: 202404010100,
+    calendar_id: 1,
+    employee_id: 5,
+    load_hash: 'UMAOBS'
+  },
+  {
+    starts_at: 202404010100,
+    ends_at: 202404010700,
+    calendar_id: 1,
+    employee_id: 5,
+    load_hash: 'UMAOBS'
+  }
+]

@@ -1,0 +1,23 @@
+Escalas Originais:
+[
+  Escala {
+    id: 29543,
+    starts_at: 202404240700,
+    ends_at: 202404241300,
+    calendar_id: 1,
+    employee_id: 2
+  }
+]
+
+Alteração calendar_id: 4
+
+Escalas de Substituição:
+[
+  {
+    starts_at: 202404240700,
+    ends_at: 202404241300,
+    calendar_id: 1,
+    employee_id: 23,
+    load_hash: 'YBZ1OK'
+  }
+]
